@@ -1,2 +1,4 @@
 # DS_Challenge_IBM
 Data Scientist Challenge LATAM Airlines
+
+At Advanced Analytics we highly value teamwork and the constant interaction between the different roles that work in a data-based product, such as Data Scientists, Machine Learning Engineerings, and Data Engineers, to name a few. Our work is collaborative by nature, and for this reason we look after proper use of Git as an essential skill in our newest members. This challenge must be delivered through any git platform of your choice, with a small caveat: it must be public for us to see it and evaluate it.We are looking to understand how you developed your codebase, and how you improved it through time; additionally, if you have your own projects in this repository they will help us to better understand your experience based on your own previous work.
